@@ -10,3 +10,12 @@
 # Imagen
 
 ![Image of Orange](https://github.com/ing-berrocal/skills-communicate-using-markdown/blob/start-markdown/fruit-orange.png)
+
+# Code
+
+```
+String hola = "Hola Mundo!"
+let hola = 'Hola mundo javascript'
+hola = "Hola mundo python"
+
+```
